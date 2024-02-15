@@ -1,10 +1,8 @@
 ## Describe your changes
 
-[Provide a brief description of the changes made in this pull request.]
 
 ## Issue ticket number and link
 
-[Mention the issue ticket number and link related to this pull request.]
 
 ## Checklist before requesting a review
 
